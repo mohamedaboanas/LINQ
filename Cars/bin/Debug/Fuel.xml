@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars xmlns:ex="http://pluralsight.com/cars/2016/ex" xmlns="http://pluralsight.com/cars/2016">
+  <ex:Car Name="4C" combiend="28" Manufucturer="ALFA ROMEO" />
+  <ex:Car Name="V12 Vantage S" combiend="14" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="V8 Vantage" combiend="16" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="V8 Vantage" combiend="15" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="V8 Vantage S" combiend="16" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="V8 Vantage S" combiend="15" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="Vantage GT" combiend="16" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="Vantage GT" combiend="15" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="TT Roadster quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="M4 GTS" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="Z4 sDrive28i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="Z4 sDrive28i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="Z4 sDrive35i" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="Z4 sDrive35is" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="CORVETTE" combiend="16" Manufucturer="Chevrolet" />
+  <ex:Car Name="CORVETTE" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="CORVETTE" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="CORVETTE" combiend="21" Manufucturer="Chevrolet" />
+  <ex:Car Name="Viper SRT" combiend="15" Manufucturer="Dodge" />
+  <ex:Car Name="488 GTB" combiend="18" Manufucturer="Ferrari" />
+  <ex:Car Name="488 GTB" combiend="18" Manufucturer="Ferrari" />
+  <ex:Car Name="F12" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="F12" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="F12 tdf" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="F12 tdf" combiend="12" Manufucturer="Ferrari" />
+  <ex:Car Name="F60 America" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="F60 America" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="CR-Z" combiend="37" Manufucturer="Honda" />
+  <ex:Car Name="CR-Z" combiend="34" Manufucturer="Honda" />
+  <ex:Car Name="F-TYPE Convertible" combiend="22" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE Convertible Manual" combiend="19" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE Coupe" combiend="22" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE Coupe Manual" combiend="19" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE R AWD Convertible" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE R AWD Coupe" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE R Convertible" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S AWD Convertible" combiend="21" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S AWD Coupe" combiend="21" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S Convertible" combiend="22" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S Convertible Manual" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S Coupe" combiend="22" Manufucturer="Jaguar" />
+  <ex:Car Name="F-TYPE S Coupe Manual" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="Aventador Coupe" combiend="13" Manufucturer="Lamborghini" />
+  <ex:Car Name="Aventador Roadster" combiend="12" Manufucturer="Lamborghini" />
+  <ex:Car Name="Huracan" combiend="17" Manufucturer="Lamborghini" />
+  <ex:Car Name="Huracan Spyder" combiend="16" Manufucturer="Lamborghini" />
+  <ex:Car Name="MX-5" combiend="30" Manufucturer="MAZDA" />
+  <ex:Car Name="MX-5" combiend="30" Manufucturer="MAZDA" />
+  <ex:Car Name="570S Coupe" combiend="19" Manufucturer="McLaren" />
+  <ex:Car Name="650S Coupe" combiend="18" Manufucturer="McLaren" />
+  <ex:Car Name="650S Spider" combiend="18" Manufucturer="McLaren" />
+  <ex:Car Name="675LT Coupe" combiend="18" Manufucturer="McLaren" />
+  <ex:Car Name="AMG GT S" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG SL 63" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG SL 65" combiend="17" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG SLK 55" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="SL 400" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="SL 550" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="SLK 300" combiend="28" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="SLK 350" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Smart fortwo (COUPE)" combiend="36" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Smart fortwo (COUPE)" combiend="35" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="370Z" combiend="21" Manufucturer="NISSAN" />
+  <ex:Car Name="370Z" combiend="21" Manufucturer="NISSAN" />
+  <ex:Car Name="370Z Roadster" combiend="21" Manufucturer="NISSAN" />
+  <ex:Car Name="370Z Roadster" combiend="20" Manufucturer="NISSAN" />
+  <ex:Car Name="Huayra Coupe" combiend="13" Manufucturer="Pagani Automobili S.p.A." />
+  <ex:Car Name="911 GT3" combiend="17" Manufucturer="Porsche" />
+  <ex:Car Name="911 GT3RS" combiend="16" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster" combiend="26" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster" combiend="24" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster GTS" combiend="25" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster GTS" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster S" combiend="24" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster S" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="Boxster Spyder" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman" combiend="26" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman" combiend="24" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman GT4" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman GTS" combiend="25" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman GTS" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman S" combiend="24" Manufucturer="Porsche" />
+  <ex:Car Name="Cayman S" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="DB9" combiend="15" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="Vanquish" combiend="16" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="California T" combiend="19" Manufucturer="Ferrari" />
+  <ex:Car Name="California T" combiend="18" Manufucturer="Ferrari" />
+  <ex:Car Name="500" combiend="27" Manufucturer="FIAT" />
+  <ex:Car Name="500" combiend="30" Manufucturer="FIAT" />
+  <ex:Car Name="500" combiend="30" Manufucturer="FIAT" />
+  <ex:Car Name="500" combiend="34" Manufucturer="FIAT" />
+  <ex:Car Name="500 Abarth" combiend="27" Manufucturer="FIAT" />
+  <ex:Car Name="500 Abarth" combiend="30" Manufucturer="FIAT" />
+  <ex:Car Name="Mini Cooper Convertible" combiend="31" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper Convertible" combiend="31" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Convertible" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Convertible" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="911 Carrera" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 Cabriolet" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 Cabriolet" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 GTS Cabriolet" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4 GTS Cabriolet" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4S" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4S" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4S Cabriolet" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera 4S Cabriolet" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera Cabriolet" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera Cabriolet" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera GTS Cabriolet" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera GTS Cabriolet" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera S" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera S" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera S Cabriolet" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Carrera S Cabriolet" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4 GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4 GTS" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4S" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Targa 4S" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="911 Turbo" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="911 Turbo Cabriolet" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="911 Turbo S" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="911 Turbo S Cabriolet" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="FR-S" combiend="28" Manufucturer="SCION" />
+  <ex:Car Name="FR-S" combiend="25" Manufucturer="SCION" />
+  <ex:Car Name="BRZ" combiend="28" Manufucturer="Subaru" />
+  <ex:Car Name="BRZ" combiend="25" Manufucturer="Subaru" />
+  <ex:Car Name="Rapide S" combiend="17" Manufucturer="Aston Martin Lagonda Ltd" />
+  <ex:Car Name="A3" combiend="27" Manufucturer="Audi" />
+  <ex:Car Name="A3 Cabriolet" combiend="28" Manufucturer="Audi" />
+  <ex:Car Name="A3 Cabriolet quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="A3 quattro" combiend="27" Manufucturer="Audi" />
+  <ex:Car Name="A5 Cabriolet quattro" combiend="24" Manufucturer="Audi" />
+  <ex:Car Name="A5 quattro" combiend="25" Manufucturer="Audi" />
+  <ex:Car Name="A5 quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="S3" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="S5" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="S5" combiend="20" Manufucturer="Audi" />
+  <ex:Car Name="S5 Cabriolet" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="TT Coupe quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="TTS Coupe" combiend="25" Manufucturer="Audi" />
+  <ex:Car Name="Continental GT Convertible" combiend="17" Manufucturer="Bentley" />
+  <ex:Car Name="Continental GT Convertible" combiend="15" Manufucturer="Bentley" />
+  <ex:Car Name="228i" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="228i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="228i Convertible" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="228i xDrive" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="228i xDrive Convertible" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="428i Convertible" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="428i xDrive Convertible" combiend="25" Manufucturer="BMW" />
+  <ex:Car Name="435i Convertible" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="435i xDrive Convertible" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="640i Convertible" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="640i Coupe" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="640i xDrive Convertible" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="640i xDrive Coupe" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="650i Convertible" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="650i Coupe" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="650i xDrive Convertible" combiend="18" Manufucturer="BMW" />
+  <ex:Car Name="650i xDrive Coupe" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="M2" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="M2" combiend="21" Manufucturer="BMW" />
+  <ex:Car Name="M235i" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="M235i" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="M235i Convertible" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="M235i Convertible" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="M235i xDrive" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="M235i xDrive Convertible" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="M4 Convertible" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="M4 Convertible" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="M6 Convertible" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="M6 Convertible" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="M6 Coupe" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="M6 Coupe" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="CASCADA" combiend="23" Manufucturer="Buick" />
+  <ex:Car Name="SPARK" combiend="35" Manufucturer="Chevrolet" />
+  <ex:Car Name="SPARK" combiend="34" Manufucturer="Chevrolet" />
+  <ex:Car Name="Fiesta FWD" combiend="31" Manufucturer="Ford" />
+  <ex:Car Name="Fiesta FWD" combiend="31" Manufucturer="Ford" />
+  <ex:Car Name="Fiesta SFE FWD" combiend="36" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG CONVERTIBLE" combiend="24" Manufucturer="Ford" />
+  <ex:Car Name="MUSTANG CONVERTIBLE" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="SHELBY GT350 MUSTANG" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="Genesis Coupe" combiend="19" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Genesis Coupe" combiend="19" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="RC 200t" combiend="26" Manufucturer="LEXUS" />
+  <ex:Car Name="RC 300 AWD" combiend="21" Manufucturer="LEXUS" />
+  <ex:Car Name="RC 350" combiend="22" Manufucturer="LEXUS" />
+  <ex:Car Name="RC 350 AWD" combiend="21" Manufucturer="LEXUS" />
+  <ex:Car Name="RC F" combiend="19" Manufucturer="LEXUS" />
+  <ex:Car Name="GRANTURISMO" combiend="16" Manufucturer="MASERATI" />
+  <ex:Car Name="GRANTURISMO CONVERTIBLE" combiend="15" Manufucturer="MASERATI" />
+  <ex:Car Name="E 400 (convertible)" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 400 (coupe)" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 400 4MATIC (coupe)" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 550 (convertible)" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 550 (coupe)" combiend="21" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="MINI COOPER HARDTOP 2 DOOR" combiend="31" Manufucturer="Mini" />
+  <ex:Car Name="MINI COOPER HARDTOP 2 DOOR" combiend="32" Manufucturer="Mini" />
+  <ex:Car Name="MINI COOPER HARDTOP 4 DOOR" combiend="31" Manufucturer="Mini" />
+  <ex:Car Name="MINI COOPER HARDTOP 4 DOOR" combiend="33" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Hardtop 2 door" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Hardtop 2 door" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Hardtop 4 door" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Hardtop 4 door" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="MINI John Cooper Works Hardtop" combiend="28" Manufucturer="Mini" />
+  <ex:Car Name="MINI John Cooper Works Hardtop" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="GT-R" combiend="19" Manufucturer="NISSAN" />
+  <ex:Car Name="Roush Stage 3 Mustang" combiend="16" Manufucturer="Roush" />
+  <ex:Car Name="Roush Stage 3 Mustang" combiend="16" Manufucturer="Roush" />
+  <ex:Car Name="iA" combiend="37" Manufucturer="SCION" />
+  <ex:Car Name="iA" combiend="35" Manufucturer="SCION" />
+  <ex:Car Name="Beetle Convertible" combiend="28" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle Convertible" combiend="26" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle Convertible" combiend="26" Manufucturer="Volkswagen" />
+  <ex:Car Name="Eos" combiend="25" Manufucturer="Volkswagen" />
+  <ex:Car Name="ILX" combiend="29" Manufucturer="Acura" />
+  <ex:Car Name="TLX 2WD" combiend="28" Manufucturer="Acura" />
+  <ex:Car Name="TLX 2WD" combiend="25" Manufucturer="Acura" />
+  <ex:Car Name="TLX 4WD" combiend="25" Manufucturer="Acura" />
+  <ex:Car Name="A4" combiend="27" Manufucturer="Audi" />
+  <ex:Car Name="A4 quattro" combiend="25" Manufucturer="Audi" />
+  <ex:Car Name="A4 quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="Q3" combiend="23" Manufucturer="Audi" />
+  <ex:Car Name="Q3 quattro" combiend="23" Manufucturer="Audi" />
+  <ex:Car Name="S4" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="S4" combiend="20" Manufucturer="Audi" />
+  <ex:Car Name="Continental GT" combiend="19" Manufucturer="Bentley" />
+  <ex:Car Name="Continental GT" combiend="15" Manufucturer="Bentley" />
+  <ex:Car Name="320i" combiend="28" Manufucturer="BMW" />
+  <ex:Car Name="320i" combiend="28" Manufucturer="BMW" />
+  <ex:Car Name="320i xDrive" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="328d" combiend="36" Manufucturer="BMW" />
+  <ex:Car Name="328d xDrive" combiend="34" Manufucturer="BMW" />
+  <ex:Car Name="328i" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="328i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="328i xDrive" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="340i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="340i" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="340i xDrive" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="340i xDrive" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="428i Coupe" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="428i Coupe" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="428i Gran Coupe" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="428i xDrive Coupe" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="428i xDrive Gran Coupe" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="435i Coupe" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="435i Coupe" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="435i Gran Coupe" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="435i xDrive Coupe" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="435i xDrive Coupe" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="435i xDrive Gran Coupe" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="640i Gran Coupe" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="640i xDrive Gran Coupe" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="650i Gran Coupe" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="650i xDrive Gran Coupe" combiend="18" Manufucturer="BMW" />
+  <ex:Car Name="Alpina B6 Gran Coupe xDrive" combiend="18" Manufucturer="BMW" />
+  <ex:Car Name="M3" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="M3" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="M4 Coupe" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="M4 Coupe" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="M6 Gran Coupe" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="M6 Gran Coupe" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="VERANO" combiend="24" Manufucturer="Buick" />
+  <ex:Car Name="VERANO" combiend="24" Manufucturer="Buick" />
+  <ex:Car Name="VERANO" combiend="25" Manufucturer="Buick" />
+  <ex:Car Name="ATS" combiend="26" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS" combiend="23" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS" combiend="26" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS" combiend="24" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS AWD" combiend="25" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS AWD" combiend="22" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS-V" combiend="19" Manufucturer="Cadillac" />
+  <ex:Car Name="ATS-V" combiend="19" Manufucturer="Cadillac" />
+  <ex:Car Name="CAMARO" combiend="25" Manufucturer="Chevrolet" />
+  <ex:Car Name="CAMARO" combiend="24" Manufucturer="Chevrolet" />
+  <ex:Car Name="CAMARO" combiend="23" Manufucturer="Chevrolet" />
+  <ex:Car Name="CAMARO" combiend="21" Manufucturer="Chevrolet" />
+  <ex:Car Name="CAMARO" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="CAMARO" combiend="19" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE" combiend="35" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE" combiend="33" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE PREMIER" combiend="34" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC" combiend="31" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC" combiend="33" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC" combiend="28" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC RS" combiend="28" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC RS" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="Fiesta ST FWD" combiend="29" Manufucturer="Ford" />
+  <ex:Car Name="FOCUS FWD" combiend="32" Manufucturer="Ford" />
+  <ex:Car Name="FOCUS FWD" combiend="35" Manufucturer="Ford" />
+  <ex:Car Name="FOCUS FWD" combiend="31" Manufucturer="Ford" />
+  <ex:Car Name="FOCUS FWD" combiend="30" Manufucturer="Ford" />
+  <ex:Car Name="FOCUS FWD" combiend="30" Manufucturer="Ford" />
+  <ex:Car Name="Focus FWD FFV" combiend="31" Manufucturer="Ford" />
+  <ex:Car Name="Focus FWD FFV" combiend="30" Manufucturer="Ford" />
+  <ex:Car Name="Focus FWD FFV" combiend="30" Manufucturer="Ford" />
+  <ex:Car Name="CIVIC 2Dr" combiend="35" Manufucturer="Honda" />
+  <ex:Car Name="CIVIC 2Dr" combiend="34" Manufucturer="Honda" />
+  <ex:Car Name="CIVIC 2Dr" combiend="31" Manufucturer="Honda" />
+  <ex:Car Name="Accent" combiend="30" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Accent" combiend="31" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Veloster" combiend="29" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Veloster" combiend="31" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Veloster" combiend="28" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Veloster" combiend="30" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Q50 HYBRID" combiend="30" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50 HYBRID AWD" combiend="28" Manufucturer="INFINITI" />
+  <ex:Car Name="Forte Koup" combiend="25" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte Koup" combiend="25" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte Koup" combiend="28" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte Koup" combiend="27" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Rio" combiend="31" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Rio" combiend="31" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Rio ECO" combiend="31" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="CT 200h" combiend="42" Manufucturer="LEXUS" />
+  <ex:Car Name="GS F" combiend="19" Manufucturer="LEXUS" />
+  <ex:Car Name="IS 200t" combiend="26" Manufucturer="LEXUS" />
+  <ex:Car Name="IS 300 AWD" combiend="21" Manufucturer="LEXUS" />
+  <ex:Car Name="IS 350" combiend="22" Manufucturer="LEXUS" />
+  <ex:Car Name="IS 350 AWD" combiend="21" Manufucturer="LEXUS" />
+  <ex:Car Name="CX-3 2WD" combiend="31" Manufucturer="MAZDA" />
+  <ex:Car Name="CX-3 4WD" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA 2" combiend="37" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA 2" combiend="35" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 4-Door" combiend="34" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 4-Door" combiend="33" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 4-Door" combiend="33" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 4-Door" combiend="32" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 4-Door" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="AMG C 63" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG C 63 S" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG CLA 45 4MATIC" combiend="26" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG CLS 63 S 4MATIC" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG S 63 4MATIC (coupe)" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG S 65 (coupe)" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="C 300" combiend="28" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="C 300 4MATIC" combiend="27" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="C 450 AMG" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLA 250" combiend="30" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLA 250 4MATIC" combiend="27" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLA 250 4MATIC" combiend="27" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLS 400" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLS 400 4MATIC" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLS 550" combiend="21" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="CLS 550 4MATIC" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="S 550 4MATIC (coupe)" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Mini Cooper Countryman" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper Countryman" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper Paceman" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper Paceman" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Countryman" combiend="28" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Countryman" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Countryman All4" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Countryman All4" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Paceman" combiend="28" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Paceman" combiend="29" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Paceman ALL4" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Paceman ALL4" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini JCW Countryman ALL4" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="Mini JCW Countryman ALL4" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini JCW Paceman ALL4" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="Mini JCW Paceman ALL4" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="LANCER" combiend="30" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="LANCER" combiend="28" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="LANCER" combiend="27" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="LANCER" combiend="25" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="LANCER 4WD" combiend="26" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="VERSA" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="VERSA" combiend="35" Manufucturer="NISSAN" />
+  <ex:Car Name="VERSA" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="Dawn" combiend="14" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="Phantom Coupe" combiend="14" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="Phantom Drophead Coupe" combiend="14" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="tC" combiend="26" Manufucturer="SCION" />
+  <ex:Car Name="tC" combiend="26" Manufucturer="SCION" />
+  <ex:Car Name="IMPREZA" combiend="31" Manufucturer="Subaru" />
+  <ex:Car Name="IMPREZA" combiend="28" Manufucturer="Subaru" />
+  <ex:Car Name="WRX" combiend="21" Manufucturer="Subaru" />
+  <ex:Car Name="WRX" combiend="23" Manufucturer="Subaru" />
+  <ex:Car Name="WRX" combiend="19" Manufucturer="Subaru" />
+  <ex:Car Name="PRIUS c" combiend="50" Manufucturer="TOYOTA" />
+  <ex:Car Name="YARIS" combiend="32" Manufucturer="TOYOTA" />
+  <ex:Car Name="YARIS" combiend="33" Manufucturer="TOYOTA" />
+  <ex:Car Name="Beetle" combiend="28" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle" combiend="28" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle" combiend="27" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle" combiend="26" Manufucturer="Volkswagen" />
+  <ex:Car Name="Beetle Dune" combiend="27" Manufucturer="Volkswagen" />
+  <ex:Car Name="CC" combiend="25" Manufucturer="Volkswagen" />
+  <ex:Car Name="CC" combiend="25" Manufucturer="Volkswagen" />
+  <ex:Car Name="CC 4Motion" combiend="20" Manufucturer="Volkswagen" />
+  <ex:Car Name="Golf" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="Golf" combiend="30" Manufucturer="Volkswagen" />
+  <ex:Car Name="Golf R" combiend="25" Manufucturer="Volkswagen" />
+  <ex:Car Name="Golf R" combiend="25" Manufucturer="Volkswagen" />
+  <ex:Car Name="GTI" combiend="28" Manufucturer="Volkswagen" />
+  <ex:Car Name="GTI" combiend="28" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="32" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="33" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="27" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta" combiend="27" Manufucturer="Volkswagen" />
+  <ex:Car Name="Jetta Hybrid" combiend="44" Manufucturer="Volkswagen" />
+  <ex:Car Name="S60 AWD" combiend="25" Manufucturer="Volvo" />
+  <ex:Car Name="S60 AWD" combiend="23" Manufucturer="Volvo" />
+  <ex:Car Name="S60 AWD" combiend="21" Manufucturer="Volvo" />
+  <ex:Car Name="S60 CC AWD" combiend="23" Manufucturer="Volvo" />
+  <ex:Car Name="S60 FWD" combiend="30" Manufucturer="Volvo" />
+  <ex:Car Name="S60 FWD" combiend="27" Manufucturer="Volvo" />
+  <ex:Car Name="S60 Inscription AWD" combiend="23" Manufucturer="Volvo" />
+  <ex:Car Name="S60 Inscription FWD" combiend="29" Manufucturer="Volvo" />
+  <ex:Car Name="S60 Polestar AWD" combiend="21" Manufucturer="Volvo" />
+  <ex:Car Name="RLX" combiend="30" Manufucturer="Acura" />
+  <ex:Car Name="RLX" combiend="24" Manufucturer="Acura" />
+  <ex:Car Name="A6" combiend="28" Manufucturer="Audi" />
+  <ex:Car Name="A6 quattro" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="A6 quattro" combiend="30" Manufucturer="Audi" />
+  <ex:Car Name="A6 quattro" combiend="24" Manufucturer="Audi" />
+  <ex:Car Name="A7 quattro" combiend="30" Manufucturer="Audi" />
+  <ex:Car Name="A7 quattro" combiend="24" Manufucturer="Audi" />
+  <ex:Car Name="RS7" combiend="18" Manufucturer="Audi" />
+  <ex:Car Name="S6" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="S7" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="S8" combiend="19" Manufucturer="Audi" />
+  <ex:Car Name="Flying Spur" combiend="17" Manufucturer="Bentley" />
+  <ex:Car Name="Flying Spur" combiend="15" Manufucturer="Bentley" />
+  <ex:Car Name="Mulsanne" combiend="13" Manufucturer="Bentley" />
+  <ex:Car Name="528i" combiend="27" Manufucturer="BMW" />
+  <ex:Car Name="528i xDrive" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="535d" combiend="30" Manufucturer="BMW" />
+  <ex:Car Name="535d xDrive" combiend="30" Manufucturer="BMW" />
+  <ex:Car Name="535i" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="535i xDrive" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="550i" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="550i xDrive" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="ActiveHybrid 5" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="M5" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="M5" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="LACROSSE" combiend="29" Manufucturer="Buick" />
+  <ex:Car Name="LACROSSE" combiend="22" Manufucturer="Buick" />
+  <ex:Car Name="LACROSSE" combiend="21" Manufucturer="Buick" />
+  <ex:Car Name="LACROSSE AWD" combiend="20" Manufucturer="Buick" />
+  <ex:Car Name="REGAL" combiend="24" Manufucturer="Buick" />
+  <ex:Car Name="REGAL" combiend="24" Manufucturer="Buick" />
+  <ex:Car Name="REGAL" combiend="29" Manufucturer="Buick" />
+  <ex:Car Name="REGAL" combiend="23" Manufucturer="Buick" />
+  <ex:Car Name="REGAL AWD" combiend="22" Manufucturer="Buick" />
+  <ex:Car Name="CTS SEDAN" combiend="25" Manufucturer="Cadillac" />
+  <ex:Car Name="CTS SEDAN" combiend="24" Manufucturer="Cadillac" />
+  <ex:Car Name="CTS SEDAN" combiend="19" Manufucturer="Cadillac" />
+  <ex:Car Name="CTS SEDAN AWD" combiend="24" Manufucturer="Cadillac" />
+  <ex:Car Name="CTS SEDAN AWD" combiend="22" Manufucturer="Cadillac" />
+  <ex:Car Name="CTS-V" combiend="17" Manufucturer="Cadillac" />
+  <ex:Car Name="CRUZE LIMITED" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE LIMITED" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE LIMITED" combiend="27" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE LIMITED" combiend="29" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE LIMITED ECO" combiend="31" Manufucturer="Chevrolet" />
+  <ex:Car Name="CRUZE LIMITED ECO" combiend="33" Manufucturer="Chevrolet" />
+  <ex:Car Name="Impala Bi-Fuel (CNG)" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="MALIBU" combiend="31" Manufucturer="Chevrolet" />
+  <ex:Car Name="MALIBU" combiend="46" Manufucturer="Chevrolet" />
+  <ex:Car Name="MALIBU" combiend="26" Manufucturer="Chevrolet" />
+  <ex:Car Name="MALIBU LIMITED" combiend="27" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC 5 RS" combiend="28" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC 5 RS" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="200" combiend="28" Manufucturer="Chrysler" />
+  <ex:Car Name="200" combiend="28" Manufucturer="Chrysler" />
+  <ex:Car Name="200" combiend="23" Manufucturer="Chrysler" />
+  <ex:Car Name="200 AWD" combiend="22" Manufucturer="Chrysler" />
+  <ex:Car Name="Challenger" combiend="23" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger" combiend="19" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger" combiend="18" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger" combiend="18" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger" combiend="17" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger SRT8" combiend="16" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger SRT8" combiend="16" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger SRT8" combiend="18" Manufucturer="Dodge" />
+  <ex:Car Name="Challenger SRT8" combiend="17" Manufucturer="Dodge" />
+  <ex:Car Name="Dart" combiend="31" Manufucturer="Dodge" />
+  <ex:Car Name="Dart" combiend="27" Manufucturer="Dodge" />
+  <ex:Car Name="Dart" combiend="29" Manufucturer="Dodge" />
+  <ex:Car Name="Dart" combiend="27" Manufucturer="Dodge" />
+  <ex:Car Name="Dart" combiend="27" Manufucturer="Dodge" />
+  <ex:Car Name="Dart Aero" combiend="32" Manufucturer="Dodge" />
+  <ex:Car Name="Dart Aero" combiend="32" Manufucturer="Dodge" />
+  <ex:Car Name="Dart GT" combiend="26" Manufucturer="Dodge" />
+  <ex:Car Name="Dart GT" combiend="27" Manufucturer="Dodge" />
+  <ex:Car Name="FF" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="FF" combiend="13" Manufucturer="Ferrari" />
+  <ex:Car Name="FOCUS RS AWD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="Focus ST FWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="FUSION AWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="FUSION FWD" combiend="28" Manufucturer="Ford" />
+  <ex:Car Name="FUSION FWD" combiend="29" Manufucturer="Ford" />
+  <ex:Car Name="FUSION FWD" combiend="26" Manufucturer="Ford" />
+  <ex:Car Name="FUSION FWD" combiend="26" Manufucturer="Ford" />
+  <ex:Car Name="FUSION HYBRID FWD" combiend="42" Manufucturer="Ford" />
+  <ex:Car Name="ACCORD" combiend="31" Manufucturer="Honda" />
+  <ex:Car Name="ACCORD" combiend="30" Manufucturer="Honda" />
+  <ex:Car Name="ACCORD" combiend="27" Manufucturer="Honda" />
+  <ex:Car Name="ACCORD" combiend="26" Manufucturer="Honda" />
+  <ex:Car Name="ACCORD" combiend="25" Manufucturer="Honda" />
+  <ex:Car Name="ACCORD" combiend="22" Manufucturer="Honda" />
+  <ex:Car Name="CIVIC 4Dr" combiend="35" Manufucturer="Honda" />
+  <ex:Car Name="CIVIC 4Dr" combiend="35" Manufucturer="Honda" />
+  <ex:Car Name="CIVIC 4Dr" combiend="31" Manufucturer="Honda" />
+  <ex:Car Name="Elantra" combiend="32" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra" combiend="31" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra" combiend="28" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra" combiend="28" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra GT" combiend="27" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra GT" combiend="27" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Elantra Limited" combiend="31" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata HYBRID" combiend="41" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata HYBRID SE" combiend="42" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Q50" combiend="26" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50" combiend="23" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50 AWD" combiend="24" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50 AWD" combiend="22" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50S" combiend="23" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50S AWD" combiend="21" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50S AWD Red Sport" combiend="22" Manufucturer="INFINITI" />
+  <ex:Car Name="Q50S Red Sport" combiend="22" Manufucturer="INFINITI" />
+  <ex:Car Name="Q70" combiend="21" Manufucturer="INFINITI" />
+  <ex:Car Name="Q70" combiend="19" Manufucturer="INFINITI" />
+  <ex:Car Name="Q70 AWD" combiend="20" Manufucturer="INFINITI" />
+  <ex:Car Name="Q70 AWD" combiend="18" Manufucturer="INFINITI" />
+  <ex:Car Name="Q70 HYBRID" combiend="31" Manufucturer="INFINITI" />
+  <ex:Car Name="XF" combiend="24" Manufucturer="Jaguar" />
+  <ex:Car Name="XF AWD" combiend="23" Manufucturer="Jaguar" />
+  <ex:Car Name="Forte" combiend="31" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte" combiend="30" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte" combiend="28" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima HYBRID" combiend="38" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima HYBRID EX" combiend="37" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="ES 300h" combiend="40" Manufucturer="LEXUS" />
+  <ex:Car Name="ES 350" combiend="24" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 200t" combiend="26" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 200t F SPORT" combiend="24" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 350" combiend="23" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 350 AWD" combiend="22" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 350 F SPORT" combiend="22" Manufucturer="LEXUS" />
+  <ex:Car Name="GS 450h" combiend="31" Manufucturer="LEXUS" />
+  <ex:Car Name="LS 460" combiend="19" Manufucturer="LEXUS" />
+  <ex:Car Name="LS 460 AWD" combiend="18" Manufucturer="LEXUS" />
+  <ex:Car Name="LS 460 L" combiend="19" Manufucturer="LEXUS" />
+  <ex:Car Name="LS 460 L AWD" combiend="18" Manufucturer="LEXUS" />
+  <ex:Car Name="LS 600h L" combiend="20" Manufucturer="LEXUS" />
+  <ex:Car Name="MKZ AWD" combiend="25" Manufucturer="Lincoln" />
+  <ex:Car Name="MKZ AWD" combiend="20" Manufucturer="Lincoln" />
+  <ex:Car Name="MKZ FWD" combiend="26" Manufucturer="Lincoln" />
+  <ex:Car Name="MKZ FWD" combiend="22" Manufucturer="Lincoln" />
+  <ex:Car Name="MKZ HYBRID FWD" combiend="40" Manufucturer="Lincoln" />
+  <ex:Car Name="Ghibli  S RWD" combiend="19" Manufucturer="MASERATI" />
+  <ex:Car Name="Ghibli V6 Rear Wheel Drive (RWD)" combiend="19" Manufucturer="MASERATI" />
+  <ex:Car Name="Ghibli V6 SQ4 AWD" combiend="19" Manufucturer="MASERATI" />
+  <ex:Car Name="MAZDA 6" combiend="32" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA 6" combiend="31" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA 6" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 5-Door" combiend="33" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 5-Door" combiend="33" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 5-Door" combiend="32" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 5-Door" combiend="31" Manufucturer="MAZDA" />
+  <ex:Car Name="MAZDA3 5-Door" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="AMG E 63 4MATIC" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG E 63 S 4MATIC" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 250 BLUETEC" combiend="33" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 250 BLUETEC 4MATIC" combiend="31" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 350" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 350" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 350 4MATIC" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 350 4MATIC" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 400" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 400 4MATIC" combiend="23" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 550 4MATIC" combiend="21" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Mini Cooper Clubman" combiend="28" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper Clubman" combiend="28" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Clubman" combiend="27" Manufucturer="Mini" />
+  <ex:Car Name="Mini Cooper S Clubman" combiend="26" Manufucturer="Mini" />
+  <ex:Car Name="ALTIMA" combiend="31" Manufucturer="NISSAN" />
+  <ex:Car Name="ALTIMA 3.5" combiend="26" Manufucturer="NISSAN" />
+  <ex:Car Name="ALTIMA SR" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="MAXIMA" combiend="25" Manufucturer="NISSAN" />
+  <ex:Car Name="SENTRA" combiend="32" Manufucturer="NISSAN" />
+  <ex:Car Name="SENTRA" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="SENTRA FE+" combiend="34" Manufucturer="NISSAN" />
+  <ex:Car Name="Wraith" combiend="15" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="iM" combiend="32" Manufucturer="SCION" />
+  <ex:Car Name="iM" combiend="31" Manufucturer="SCION" />
+  <ex:Car Name="LEGACY" combiend="30" Manufucturer="Subaru" />
+  <ex:Car Name="LEGACY" combiend="23" Manufucturer="Subaru" />
+  <ex:Car Name="AVALON" combiend="24" Manufucturer="TOYOTA" />
+  <ex:Car Name="AVALON HYBRID" combiend="40" Manufucturer="TOYOTA" />
+  <ex:Car Name="CAMRY" combiend="28" Manufucturer="TOYOTA" />
+  <ex:Car Name="CAMRY" combiend="25" Manufucturer="TOYOTA" />
+  <ex:Car Name="CAMRY HYBRID LE" combiend="41" Manufucturer="TOYOTA" />
+  <ex:Car Name="CAMRY HYBRID XLE/SE" combiend="40" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA" combiend="31" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA" combiend="32" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA" combiend="32" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA" combiend="31" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA LE ECO" combiend="35" Manufucturer="TOYOTA" />
+  <ex:Car Name="COROLLA LE ECO" combiend="34" Manufucturer="TOYOTA" />
+  <ex:Car Name="PRIUS" combiend="52" Manufucturer="TOYOTA" />
+  <ex:Car Name="PRIUS Eco" combiend="56" Manufucturer="TOYOTA" />
+  <ex:Car Name="Passat" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="Passat" combiend="23" Manufucturer="Volkswagen" />
+  <ex:Car Name="S80 FWD" combiend="29" Manufucturer="Volvo" />
+  <ex:Car Name="A8L" combiend="28" Manufucturer="Audi" />
+  <ex:Car Name="A8L" combiend="22" Manufucturer="Audi" />
+  <ex:Car Name="A8L" combiend="22" Manufucturer="Audi" />
+  <ex:Car Name="A8L" combiend="17" Manufucturer="Audi" />
+  <ex:Car Name="328i xDrive Gran Turismo" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="335i xDrive Gran Turismo" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="535i Gran Turismo" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="535i xDrive Gran Turismo" combiend="21" Manufucturer="BMW" />
+  <ex:Car Name="740i" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="750i" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="750i xDrive" combiend="19" Manufucturer="BMW" />
+  <ex:Car Name="X1 xDrive28i" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="CT6" combiend="25" Manufucturer="Cadillac" />
+  <ex:Car Name="CT6 AWD" combiend="21" Manufucturer="Cadillac" />
+  <ex:Car Name="CT6 AWD" combiend="22" Manufucturer="Cadillac" />
+  <ex:Car Name="XTS" combiend="22" Manufucturer="Cadillac" />
+  <ex:Car Name="XTS AWD" combiend="20" Manufucturer="Cadillac" />
+  <ex:Car Name="XTS AWD" combiend="18" Manufucturer="Cadillac" />
+  <ex:Car Name="IMPALA" combiend="25" Manufucturer="Chevrolet" />
+  <ex:Car Name="IMPALA" combiend="22" Manufucturer="Chevrolet" />
+  <ex:Car Name="IMPALA" combiend="22" Manufucturer="Chevrolet" />
+  <ex:Car Name="IMPALA LIMITED" combiend="22" Manufucturer="Chevrolet" />
+  <ex:Car Name="SS" combiend="16" Manufucturer="Chevrolet" />
+  <ex:Car Name="SS" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="300" combiend="23" Manufucturer="Chrysler" />
+  <ex:Car Name="300" combiend="23" Manufucturer="Chrysler" />
+  <ex:Car Name="300" combiend="19" Manufucturer="Chrysler" />
+  <ex:Car Name="300 AWD" combiend="21" Manufucturer="Chrysler" />
+  <ex:Car Name="300 AWD" combiend="21" Manufucturer="Chrysler" />
+  <ex:Car Name="Charger" combiend="23" Manufucturer="Dodge" />
+  <ex:Car Name="Charger" combiend="23" Manufucturer="Dodge" />
+  <ex:Car Name="Charger" combiend="19" Manufucturer="Dodge" />
+  <ex:Car Name="Charger" combiend="18" Manufucturer="Dodge" />
+  <ex:Car Name="Charger AWD" combiend="21" Manufucturer="Dodge" />
+  <ex:Car Name="Charger AWD" combiend="21" Manufucturer="Dodge" />
+  <ex:Car Name="Charger SRT8" combiend="16" Manufucturer="Dodge" />
+  <ex:Car Name="Charger SRT8" combiend="18" Manufucturer="Dodge" />
+  <ex:Car Name="C-MAX Hybrid FWD" combiend="40" Manufucturer="Ford" />
+  <ex:Car Name="Special Service Police FWD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS AWD" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS AWD" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS AWD FFV" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS FWD" combiend="23" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS FWD" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="TAURUS FWD FFV" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="Azera" combiend="23" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Azera Limited" combiend="22" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Equus" combiend="18" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Genesis AWD" combiend="19" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Genesis RWD" combiend="22" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Genesis RWD" combiend="18" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata" combiend="32" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata" combiend="26" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata" combiend="30" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata Limited" combiend="25" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Sonata SPORT/LIMITED" combiend="29" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="XJ" combiend="21" Manufucturer="Jaguar" />
+  <ex:Car Name="XJ" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="XJ AWD" combiend="20" Manufucturer="Jaguar" />
+  <ex:Car Name="XJL" combiend="21" Manufucturer="Jaguar" />
+  <ex:Car Name="XJL" combiend="18" Manufucturer="Jaguar" />
+  <ex:Car Name="XJL AWD" combiend="20" Manufucturer="Jaguar" />
+  <ex:Car Name="Cadenza" combiend="22" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte 5" combiend="24" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte 5" combiend="24" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Forte 5" combiend="28" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="K900" combiend="20" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="K900" combiend="18" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima" combiend="32" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima" combiend="25" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima" combiend="28" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima FE" combiend="26" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Optima FE" combiend="30" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="MKS AWD" combiend="19" Manufucturer="Lincoln" />
+  <ex:Car Name="MKS AWD" combiend="19" Manufucturer="Lincoln" />
+  <ex:Car Name="MKS FWD" combiend="20" Manufucturer="Lincoln" />
+  <ex:Car Name="QUATTROPORTE GTS" combiend="17" Manufucturer="MASERATI" />
+  <ex:Car Name="QUATTROPORTE S" combiend="18" Manufucturer="MASERATI" />
+  <ex:Car Name="QUATTROPORTE SQ4 V6" combiend="18" Manufucturer="MASERATI" />
+  <ex:Car Name="AMG S 63 4MATIC" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG S 65" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Maybach S 600" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="S 550" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="S 550 4MATIC" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="S 600" combiend="16" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Panamera" combiend="22" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera 4" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera 4S" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera 4S Executive" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera GTS" combiend="19" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera S" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera Turbo" combiend="18" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera Turbo Executive" combiend="18" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera Turbo S" combiend="18" Manufucturer="Porsche" />
+  <ex:Car Name="Panamera Turbo S Executive" combiend="18" Manufucturer="Porsche" />
+  <ex:Car Name="Ghost" combiend="15" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="Ghost EWB" combiend="15" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="Phantom" combiend="14" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="Phantom EWB" combiend="14" Manufucturer="Rolls-Royce Motor Cars Limited" />
+  <ex:Car Name="allroad quattro" combiend="24" Manufucturer="Audi" />
+  <ex:Car Name="328d xDrive Sports Wagon" combiend="34" Manufucturer="BMW" />
+  <ex:Car Name="328i xDrive Sports Wagon" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="SONIC 5" combiend="31" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC 5" combiend="33" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC 5" combiend="28" Manufucturer="Chevrolet" />
+  <ex:Car Name="SONIC 5" combiend="30" Manufucturer="Chevrolet" />
+  <ex:Car Name="500L" combiend="25" Manufucturer="FIAT" />
+  <ex:Car Name="500L" combiend="28" Manufucturer="FIAT" />
+  <ex:Car Name="FIT" combiend="36" Manufucturer="Honda" />
+  <ex:Car Name="FIT" combiend="35" Manufucturer="Honda" />
+  <ex:Car Name="FIT" combiend="32" Manufucturer="Honda" />
+  <ex:Car Name="QX50" combiend="20" Manufucturer="INFINITI" />
+  <ex:Car Name="QX50 AWD" combiend="20" Manufucturer="INFINITI" />
+  <ex:Car Name="Soul" combiend="26" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Soul" combiend="26" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Soul" combiend="27" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Soul ECO dynamics" combiend="27" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="JUKE" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="JUKE" combiend="30" Manufucturer="NISSAN" />
+  <ex:Car Name="JUKE AWD" combiend="28" Manufucturer="NISSAN" />
+  <ex:Car Name="JUKE NISMO RS" combiend="27" Manufucturer="NISSAN" />
+  <ex:Car Name="JUKE NISMO RS AWD" combiend="27" Manufucturer="NISSAN" />
+  <ex:Car Name="IMPREZA SPORT" combiend="31" Manufucturer="Subaru" />
+  <ex:Car Name="IMPREZA SPORT" combiend="28" Manufucturer="Subaru" />
+  <ex:Car Name="IMPREZA WAGON" combiend="31" Manufucturer="Subaru" />
+  <ex:Car Name="IMPREZA WAGON" combiend="28" Manufucturer="Subaru" />
+  <ex:Car Name="Golf SportWagen" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="Golf SportWagen" combiend="29" Manufucturer="Volkswagen" />
+  <ex:Car Name="V60 AWD" combiend="25" Manufucturer="Volvo" />
+  <ex:Car Name="V60 AWD" combiend="23" Manufucturer="Volvo" />
+  <ex:Car Name="V60 AWD" combiend="21" Manufucturer="Volvo" />
+  <ex:Car Name="V60 FWD" combiend="29" Manufucturer="Volvo" />
+  <ex:Car Name="V60 Polestar AWD" combiend="21" Manufucturer="Volvo" />
+  <ex:Car Name="V60CC AWD" combiend="23" Manufucturer="Volvo" />
+  <ex:Car Name="AMG E 63 S 4MATIC (stat. wagon)" combiend="18" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG GLA 45 4MATIC" combiend="25" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="E 350 4Matic (Wagon)" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLA 250" combiend="29" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="MURANO AWD" combiend="24" Manufucturer="NISSAN" />
+  <ex:Car Name="MURANO FWD" combiend="24" Manufucturer="NISSAN" />
+  <ex:Car Name="MURANO Hybrid AWD" combiend="28" Manufucturer="NISSAN" />
+  <ex:Car Name="MURANO Hybrid FWD" combiend="29" Manufucturer="NISSAN" />
+  <ex:Car Name="PRIUS v" combiend="42" Manufucturer="TOYOTA" />
+  <ex:Car Name="COLORADO 2WD" combiend="22" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO 2WD" combiend="22" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO 2WD" combiend="25" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO 2WD" combiend="21" Manufucturer="Chevrolet" />
+  <ex:Car Name="CANYON 2WD" combiend="22" Manufucturer="GMC" />
+  <ex:Car Name="CANYON 2WD" combiend="22" Manufucturer="GMC" />
+  <ex:Car Name="CANYON 2WD" combiend="25" Manufucturer="GMC" />
+  <ex:Car Name="CANYON 2WD" combiend="21" Manufucturer="GMC" />
+  <ex:Car Name="FRONTIER 2WD" combiend="19" Manufucturer="NISSAN" />
+  <ex:Car Name="FRONTIER 2WD" combiend="21" Manufucturer="NISSAN" />
+  <ex:Car Name="FRONTIER 2WD" combiend="18" Manufucturer="NISSAN" />
+  <ex:Car Name="FRONTIER 2WD" combiend="19" Manufucturer="NISSAN" />
+  <ex:Car Name="TACOMA 2WD" combiend="21" Manufucturer="TOYOTA" />
+  <ex:Car Name="TACOMA 2WD" combiend="21" Manufucturer="TOYOTA" />
+  <ex:Car Name="COLORADO 4WD" combiend="21" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO 4WD" combiend="23" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO 4WD" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="CANYON 4WD" combiend="21" Manufucturer="GMC" />
+  <ex:Car Name="CANYON 4WD" combiend="23" Manufucturer="GMC" />
+  <ex:Car Name="CANYON 4WD" combiend="20" Manufucturer="GMC" />
+  <ex:Car Name="FRONTIER 4WD" combiend="17" Manufucturer="NISSAN" />
+  <ex:Car Name="FRONTIER 4WD" combiend="18" Manufucturer="NISSAN" />
+  <ex:Car Name="TACOMA 4WD" combiend="20" Manufucturer="TOYOTA" />
+  <ex:Car Name="TACOMA 4WD" combiend="20" Manufucturer="TOYOTA" />
+  <ex:Car Name="TACOMA 4WD" combiend="20" Manufucturer="TOYOTA" />
+  <ex:Car Name="TACOMA 4WD" combiend="19" Manufucturer="TOYOTA" />
+  <ex:Car Name="Tacoma 4WD Double Cab" combiend="18" Manufucturer="TOYOTA" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="19" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="19" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SILVERADO 2WD" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="F150 2WD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="F150 2WD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="F150 2WD FFV" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="F150 2WD FFV" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="20" Manufucturer="GMC" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="19" Manufucturer="GMC" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="19" Manufucturer="GMC" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="20" Manufucturer="GMC" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C15 SIERRA 2WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="1500 4X2" combiend="23" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X2" combiend="20" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X2" combiend="16" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X2" combiend="17" Manufucturer="RAM" />
+  <ex:Car Name="1500 HFE 4X2" combiend="24" Manufucturer="RAM" />
+  <ex:Car Name="1500 HFE 4X2" combiend="21" Manufucturer="RAM" />
+  <ex:Car Name="F150 Pickup 2WD" combiend="13" Manufucturer="Roush" />
+  <ex:Car Name="TUNDRA 2WD" combiend="16" Manufucturer="TOYOTA" />
+  <ex:Car Name="TUNDRA 2WD" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="TUNDRA 2WD FFV" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="19" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" combiend="17" Manufucturer="Ford" />
+  <ex:Car Name="F150 4WD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="F150 4WD" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="F150 4WD FFV" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="F150 4WD FFV" combiend="17" Manufucturer="Ford" />
+  <ex:Car Name="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="19" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="1500 4X4" combiend="22" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X4" combiend="19" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X4" combiend="15" Manufucturer="RAM" />
+  <ex:Car Name="1500 4X4" combiend="17" Manufucturer="RAM" />
+  <ex:Car Name="F150 Pickup 4WD" combiend="13" Manufucturer="Roush" />
+  <ex:Car Name="TUNDRA 4WD" combiend="16" Manufucturer="TOYOTA" />
+  <ex:Car Name="TUNDRA 4WD" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="TUNDRA 4WD FFV" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="G2500 EXPRESS 2WD PASS MDPV" combiend="13" Manufucturer="Chevrolet" />
+  <ex:Car Name="G3500 EXPRESS 2WD PASS MDPV" combiend="12" Manufucturer="Chevrolet" />
+  <ex:Car Name="Transit T150 Wagon" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="Transit T150 Wagon FFV" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="G2500 SAVANA 2WD PASS MDPV" combiend="13" Manufucturer="GMC" />
+  <ex:Car Name="G3500 SAVANA 2WD PASS MDPV" combiend="12" Manufucturer="GMC" />
+  <ex:Car Name="XTS HEARSE" combiend="17" Manufucturer="Cadillac" />
+  <ex:Car Name="XTS LIMO" combiend="17" Manufucturer="Cadillac" />
+  <ex:Car Name="City Express Cargo Van" combiend="25" Manufucturer="CHEVROLET" />
+  <ex:Car Name="Transit Connect Van 2WD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="Transit Connect Van 2WD" combiend="23" Manufucturer="Ford" />
+  <ex:Car Name="TRANSIT CONNECT VAN FFV" combiend="23" Manufucturer="Ford" />
+  <ex:Car Name="TRANSIT CONNECT WAGON FFV" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="TRANSIT CONNECT WAGON FWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="TRANSIT CONNECT WAGON FWD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="TRANSIT CONNECT WAGON LWB FFV" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="Transit Connect Wagon LWB FWD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="MKT LIVERY FWD" combiend="21" Manufucturer="Lincoln" />
+  <ex:Car Name="Metris (Cargo Van)" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Metris (Passenger Van)" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="NV200 Cargo Van" combiend="25" Manufucturer="NISSAN" />
+  <ex:Car Name="NV200 NYC Taxi" combiend="24" Manufucturer="NISSAN" />
+  <ex:Car Name="Promaster City" combiend="24" Manufucturer="RAM" />
+  <ex:Car Name="MKT LIVERY AWD" combiend="18" Manufucturer="Lincoln" />
+  <ex:Car Name="C15 SILVERADO 2WD CAB CHASSIS" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="COLORADO CAB CHASSIS 2WD" combiend="16" Manufucturer="Chevrolet" />
+  <ex:Car Name="K15 SILVERADO 4WD CAB CHASSIS" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="C15 SIERRA 2WD CAB CHASSIS" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="CANYON CAB CHASSIS 2WD" combiend="16" Manufucturer="GMC" />
+  <ex:Car Name="K15 SIERRA 4WD CAB CHASSIS" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="Town &amp; Country" combiend="20" Manufucturer="Chrysler" />
+  <ex:Car Name="Town &amp; Country" combiend="20" Manufucturer="Chrysler" />
+  <ex:Car Name="Grand Caravan" combiend="20" Manufucturer="Dodge" />
+  <ex:Car Name="Grand Caravan" combiend="20" Manufucturer="Dodge" />
+  <ex:Car Name="ODYSSEY 2WD" combiend="22" Manufucturer="Honda" />
+  <ex:Car Name="Sedona" combiend="20" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sedona SX" combiend="21" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sedona SXL" combiend="19" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="QUEST" combiend="23" Manufucturer="NISSAN" />
+  <ex:Car Name="SIENNA" combiend="21" Manufucturer="TOYOTA" />
+  <ex:Car Name="SIENNA AWD" combiend="19" Manufucturer="TOYOTA" />
+  <ex:Car Name="MDX 2WD" combiend="22" Manufucturer="Acura" />
+  <ex:Car Name="MDX 2WD" combiend="23" Manufucturer="Acura" />
+  <ex:Car Name="RDX 2WD" combiend="23" Manufucturer="Acura" />
+  <ex:Car Name="X3 sDrive 28i" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="ENCORE" combiend="30" Manufucturer="Buick" />
+  <ex:Car Name="ENCORE" combiend="28" Manufucturer="Buick" />
+  <ex:Car Name="EQUINOX FWD" combiend="26" Manufucturer="Chevrolet" />
+  <ex:Car Name="EQUINOX FWD" combiend="26" Manufucturer="Chevrolet" />
+  <ex:Car Name="EQUINOX FWD" combiend="20" Manufucturer="Chevrolet" />
+  <ex:Car Name="TRAX" combiend="29" Manufucturer="Chevrolet" />
+  <ex:Car Name="Journey" combiend="21" Manufucturer="Dodge" />
+  <ex:Car Name="Journey" combiend="19" Manufucturer="Dodge" />
+  <ex:Car Name="500X" combiend="28" Manufucturer="FIAT" />
+  <ex:Car Name="500X" combiend="25" Manufucturer="FIAT" />
+  <ex:Car Name="EDGE FWD" combiend="24" Manufucturer="Ford" />
+  <ex:Car Name="EDGE FWD" combiend="24" Manufucturer="Ford" />
+  <ex:Car Name="EDGE FWD" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="ESCAPE FWD" combiend="26" Manufucturer="Ford" />
+  <ex:Car Name="ESCAPE FWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="ESCAPE FWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="TERRAIN FWD" combiend="26" Manufucturer="GMC" />
+  <ex:Car Name="TERRAIN FWD" combiend="26" Manufucturer="GMC" />
+  <ex:Car Name="TERRAIN FWD" combiend="20" Manufucturer="GMC" />
+  <ex:Car Name="CR-V 2WD" combiend="29" Manufucturer="Honda" />
+  <ex:Car Name="HR-V 2WD" combiend="31" Manufucturer="Honda" />
+  <ex:Car Name="HR-V 2WD" combiend="31" Manufucturer="Honda" />
+  <ex:Car Name="HR-V 2WD" combiend="28" Manufucturer="Honda" />
+  <ex:Car Name="PILOT 2WD" combiend="22" Manufucturer="Honda" />
+  <ex:Car Name="PILOT 2WD" combiend="23" Manufucturer="Honda" />
+  <ex:Car Name="Santa Fe FWD" combiend="21" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Sport FWD" combiend="22" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Sport FWD" combiend="23" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Sport ULTIMATE FWD" combiend="22" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Ultimate FWD" combiend="20" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson Eco FWD" combiend="29" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson FWD" combiend="27" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson FWD" combiend="26" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="QX60 FWD" combiend="23" Manufucturer="INFINITI" />
+  <ex:Car Name="QX70 RWD" combiend="19" Manufucturer="INFINITI" />
+  <ex:Car Name="Cherokee FWD" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee FWD" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee FWD" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Compass FWD" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Compass FWD" combiend="26" Manufucturer="Jeep" />
+  <ex:Car Name="Compass FWD" combiend="23" Manufucturer="Jeep" />
+  <ex:Car Name="Compass FWD" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot FWD" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot FWD" combiend="26" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot FWD" combiend="23" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot FWD" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Renegade 4x2" combiend="27" Manufucturer="Jeep" />
+  <ex:Car Name="Renegade 4x2" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Sorento FWD" combiend="23" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sorento FWD" combiend="24" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sorento FWD" combiend="21" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sportage FWD" combiend="24" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sportage SX FWD" combiend="22" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="NX 200t" combiend="25" Manufucturer="LEXUS" />
+  <ex:Car Name="NX 300h" combiend="33" Manufucturer="LEXUS" />
+  <ex:Car Name="RX 350" combiend="23" Manufucturer="LEXUS" />
+  <ex:Car Name="RX 450h" combiend="30" Manufucturer="LEXUS" />
+  <ex:Car Name="MKC  FWD" combiend="23" Manufucturer="Lincoln" />
+  <ex:Car Name="MKX FWD" combiend="21" Manufucturer="Lincoln" />
+  <ex:Car Name="MKX FWD" combiend="20" Manufucturer="Lincoln" />
+  <ex:Car Name="CX-5 2WD" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="CX-5 2WD" combiend="29" Manufucturer="MAZDA" />
+  <ex:Car Name="GLC 300" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="OUTLANDER 2WD" combiend="27" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER SPORT 2WD" combiend="27" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER SPORT 2WD" combiend="25" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER SPORT 2WD" combiend="25" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="PATHFINDER 2WD" combiend="23" Manufucturer="NISSAN" />
+  <ex:Car Name="ROGUE FWD" combiend="28" Manufucturer="NISSAN" />
+  <ex:Car Name="HIGHLANDER" combiend="22" Manufucturer="TOYOTA" />
+  <ex:Car Name="HIGHLANDER" combiend="21" Manufucturer="TOYOTA" />
+  <ex:Car Name="RAV4" combiend="26" Manufucturer="TOYOTA" />
+  <ex:Car Name="RAV4 LE/XLE" combiend="26" Manufucturer="TOYOTA" />
+  <ex:Car Name="Tiguan" combiend="23" Manufucturer="Volkswagen" />
+  <ex:Car Name="XC60 FWD" combiend="26" Manufucturer="Volvo" />
+  <ex:Car Name="XC60 FWD" combiend="24" Manufucturer="Volvo" />
+  <ex:Car Name="XC70 FWD" combiend="26" Manufucturer="Volvo" />
+  <ex:Car Name="MDX 4WD" combiend="22" Manufucturer="Acura" />
+  <ex:Car Name="MDX 4WD" combiend="21" Manufucturer="Acura" />
+  <ex:Car Name="RDX 4WD" combiend="22" Manufucturer="Acura" />
+  <ex:Car Name="Q5" combiend="23" Manufucturer="Audi" />
+  <ex:Car Name="Q5" combiend="27" Manufucturer="Audi" />
+  <ex:Car Name="Q5" combiend="21" Manufucturer="Audi" />
+  <ex:Car Name="Q5 Hybrid" combiend="26" Manufucturer="Audi" />
+  <ex:Car Name="SQ5" combiend="19" Manufucturer="Audi" />
+  <ex:Car Name="X3 xDrive28d" combiend="30" Manufucturer="BMW" />
+  <ex:Car Name="X3 xDrive28i" combiend="24" Manufucturer="BMW" />
+  <ex:Car Name="X3 xDrive35i" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="X4 M40i" combiend="21" Manufucturer="BMW" />
+  <ex:Car Name="X4 xDrive28i" combiend="23" Manufucturer="BMW" />
+  <ex:Car Name="X4 xDrive35i" combiend="22" Manufucturer="BMW" />
+  <ex:Car Name="ENCORE AWD" combiend="29" Manufucturer="Buick" />
+  <ex:Car Name="ENCORE AWD" combiend="26" Manufucturer="Buick" />
+  <ex:Car Name="ENVISION AWD" combiend="22" Manufucturer="Buick" />
+  <ex:Car Name="EQUINOX AWD" combiend="23" Manufucturer="Chevrolet" />
+  <ex:Car Name="EQUINOX AWD" combiend="23" Manufucturer="Chevrolet" />
+  <ex:Car Name="EQUINOX AWD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="TRAX AWD" combiend="27" Manufucturer="Chevrolet" />
+  <ex:Car Name="Journey AWD" combiend="19" Manufucturer="Dodge" />
+  <ex:Car Name="500X AWD" combiend="24" Manufucturer="FIAT" />
+  <ex:Car Name="EDGE AWD" combiend="23" Manufucturer="Ford" />
+  <ex:Car Name="EDGE AWD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="EDGE AWD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="ESCAPE AWD" combiend="25" Manufucturer="Ford" />
+  <ex:Car Name="ESCAPE AWD" combiend="23" Manufucturer="Ford" />
+  <ex:Car Name="TERRAIN AWD" combiend="23" Manufucturer="GMC" />
+  <ex:Car Name="TERRAIN AWD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="CR-V 4WD" combiend="27" Manufucturer="Honda" />
+  <ex:Car Name="HR-V 4WD" combiend="29" Manufucturer="Honda" />
+  <ex:Car Name="HR-V 4WD" combiend="29" Manufucturer="Honda" />
+  <ex:Car Name="PILOT 4WD" combiend="21" Manufucturer="Honda" />
+  <ex:Car Name="PILOT 4WD" combiend="22" Manufucturer="Honda" />
+  <ex:Car Name="Santa Fe AWD" combiend="20" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Sport AWD" combiend="21" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Sport AWD" combiend="21" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Santa Fe Ultimate AWD" combiend="19" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson AWD" combiend="26" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson AWD" combiend="23" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="Tucson Eco AWD" combiend="27" Manufucturer="HYUNDAI MOTOR COMPANY" />
+  <ex:Car Name="QX60 AWD" combiend="22" Manufucturer="INFINITI" />
+  <ex:Car Name="QX70 AWD" combiend="18" Manufucturer="INFINITI" />
+  <ex:Car Name="Cherokee 4X4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee 4X4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee 4X4" combiend="23" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee 4x4 Active Drive II" combiend="23" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee 4x4 Active Drive II" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee Trailhawk 4X4" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="Cherokee Trailhawk 4X4" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="Compass 4X4" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="Compass 4X4" combiend="21" Manufucturer="Jeep" />
+  <ex:Car Name="Compass 4X4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot 4X4" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot 4X4" combiend="21" Manufucturer="Jeep" />
+  <ex:Car Name="Patriot 4X4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Renegade 4x4" combiend="27" Manufucturer="Jeep" />
+  <ex:Car Name="Renegade 4x4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Wrangler 4X4" combiend="18" Manufucturer="Jeep" />
+  <ex:Car Name="Wrangler 4X4" combiend="18" Manufucturer="Jeep" />
+  <ex:Car Name="Wrangler Unlimited 4X4" combiend="18" Manufucturer="Jeep" />
+  <ex:Car Name="Wrangler Unlimited 4X4" combiend="18" Manufucturer="Jeep" />
+  <ex:Car Name="Sorento AWD" combiend="22" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sorento AWD" combiend="23" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sorento AWD" combiend="19" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sorento AWD FE" combiend="21" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sportage AWD" combiend="22" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Sportage SX AWD" combiend="21" Manufucturer="KIA MOTORS CORPORATION" />
+  <ex:Car Name="Discovery Sport" combiend="22" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover Evoque" combiend="24" Manufucturer="Land Rover" />
+  <ex:Car Name="NX 200t AWD" combiend="24" Manufucturer="LEXUS" />
+  <ex:Car Name="NX 200t AWD F SPORT" combiend="24" Manufucturer="LEXUS" />
+  <ex:Car Name="NX 300h AWD" combiend="32" Manufucturer="LEXUS" />
+  <ex:Car Name="RX 350 AWD" combiend="22" Manufucturer="LEXUS" />
+  <ex:Car Name="MKC  AWD" combiend="22" Manufucturer="Lincoln" />
+  <ex:Car Name="MKC  AWD" combiend="21" Manufucturer="Lincoln" />
+  <ex:Car Name="MKX AWD" combiend="19" Manufucturer="Lincoln" />
+  <ex:Car Name="MKX AWD" combiend="19" Manufucturer="Lincoln" />
+  <ex:Car Name="CX-5 4WD" combiend="26" Manufucturer="MAZDA" />
+  <ex:Car Name="GLA 250 4MATIC" combiend="27" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLA 250 4MATIC" combiend="27" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLC 300 4MATIC" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="OUTLANDER 4WD" combiend="26" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER 4WD" combiend="23" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER SPORT 4WD" combiend="26" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="OUTLANDER SPORT 4WD" combiend="24" Manufucturer="Mitsubishi Motors Corporation" />
+  <ex:Car Name="PATHFINDER 4WD" combiend="22" Manufucturer="NISSAN" />
+  <ex:Car Name="PATHFINDER 4WD PLATINUM" combiend="21" Manufucturer="NISSAN" />
+  <ex:Car Name="ROGUE AWD" combiend="28" Manufucturer="NISSAN" />
+  <ex:Car Name="Macan S" combiend="19" Manufucturer="Porsche" />
+  <ex:Car Name="Macan Turbo" combiend="19" Manufucturer="Porsche" />
+  <ex:Car Name="CROSSTREK" combiend="29" Manufucturer="Subaru" />
+  <ex:Car Name="CROSSTREK" combiend="26" Manufucturer="Subaru" />
+  <ex:Car Name="CROSSTREK HYBRID" combiend="31" Manufucturer="Subaru" />
+  <ex:Car Name="FORESTER" combiend="25" Manufucturer="Subaru" />
+  <ex:Car Name="FORESTER" combiend="27" Manufucturer="Subaru" />
+  <ex:Car Name="FORESTER" combiend="25" Manufucturer="Subaru" />
+  <ex:Car Name="OUTBACK" combiend="28" Manufucturer="Subaru" />
+  <ex:Car Name="OUTBACK" combiend="22" Manufucturer="Subaru" />
+  <ex:Car Name="RAV4 AWD" combiend="25" Manufucturer="TOYOTA" />
+  <ex:Car Name="RAV4 HYBRID AWD" combiend="33" Manufucturer="TOYOTA" />
+  <ex:Car Name="RAV4 Limited AWD/SE AWD" combiend="25" Manufucturer="TOYOTA" />
+  <ex:Car Name="Tiguan 4Motion" combiend="23" Manufucturer="Volkswagen" />
+  <ex:Car Name="XC60 AWD" combiend="22" Manufucturer="Volvo" />
+  <ex:Car Name="XC60 AWD" combiend="22" Manufucturer="Volvo" />
+  <ex:Car Name="XC60 AWD" combiend="20" Manufucturer="Volvo" />
+  <ex:Car Name="XC70 AWD" combiend="22" Manufucturer="Volvo" />
+  <ex:Car Name="X5 sDrive35i" combiend="21" Manufucturer="BMW" />
+  <ex:Car Name="X6 sDrive35i" combiend="21" Manufucturer="BMW" />
+  <ex:Car Name="ENCLAVE FWD" combiend="18" Manufucturer="Buick" />
+  <ex:Car Name="ESCALADE 2WD" combiend="17" Manufucturer="Cadillac" />
+  <ex:Car Name="SRX" combiend="19" Manufucturer="Cadillac" />
+  <ex:Car Name="C1500 SUBURBAN 2WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="C1500 SUBURBAN 2WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="C1500 TAHOE 2WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="C1500 TAHOE 2WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="TRAVERSE FWD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="Durango RWD" combiend="22" Manufucturer="Dodge" />
+  <ex:Car Name="Durango RWD" combiend="17" Manufucturer="Dodge" />
+  <ex:Car Name="Expedition 2WD" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="Expedition EL 2WD" combiend="17" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER FFV 2WD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER FWD" combiend="22" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER FWD" combiend="20" Manufucturer="Ford" />
+  <ex:Car Name="Flex FWD" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="ACADIA FWD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON 2WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON 2WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON 2WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON XL 2WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON XL 2WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="C1500 YUKON XL 2WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="QX60 Hybrid FWD" combiend="26" Manufucturer="INFINITI" />
+  <ex:Car Name="QX80 2WD" combiend="16" Manufucturer="INFINITI" />
+  <ex:Car Name="Grand Cherokee 4X2" combiend="25" Manufucturer="Jeep" />
+  <ex:Car Name="Grand Cherokee 4X2" combiend="22" Manufucturer="Jeep" />
+  <ex:Car Name="MKT FWD" combiend="19" Manufucturer="Lincoln" />
+  <ex:Car Name="Navigator 2WD" combiend="18" Manufucturer="Lincoln" />
+  <ex:Car Name="Navigator L 2WD" combiend="17" Manufucturer="Lincoln" />
+  <ex:Car Name="GLE 350" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="4RUNNER 2WD" combiend="19" Manufucturer="TOYOTA" />
+  <ex:Car Name="SEQUOIA 2WD" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="XC90 FWD" combiend="24" Manufucturer="Volvo" />
+  <ex:Car Name="X5 M" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="X5 xDrive 35d" combiend="26" Manufucturer="BMW" />
+  <ex:Car Name="X5 xDrive35i" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="X5 xDrive50i" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="X6 M" combiend="16" Manufucturer="BMW" />
+  <ex:Car Name="X6 xDrive35i" combiend="20" Manufucturer="BMW" />
+  <ex:Car Name="X6 xDrive50i" combiend="17" Manufucturer="BMW" />
+  <ex:Car Name="ENCLAVE AWD" combiend="17" Manufucturer="Buick" />
+  <ex:Car Name="ESCALADE 4WD" combiend="17" Manufucturer="Cadillac" />
+  <ex:Car Name="SRX AWD" combiend="18" Manufucturer="Cadillac" />
+  <ex:Car Name="K1500 SUBURBAN 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K1500 SUBURBAN 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K1500 TAHOE 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="K1500 TAHOE 4WD" combiend="18" Manufucturer="Chevrolet" />
+  <ex:Car Name="TRAVERSE AWD" combiend="17" Manufucturer="Chevrolet" />
+  <ex:Car Name="Durango AWD" combiend="21" Manufucturer="Dodge" />
+  <ex:Car Name="Durango AWD" combiend="17" Manufucturer="Dodge" />
+  <ex:Car Name="Expedition 4WD" combiend="17" Manufucturer="Ford" />
+  <ex:Car Name="Expedition EL 4WD" combiend="16" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER AWD" combiend="21" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER AWD" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER AWD" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="EXPLORER FFV AWD" combiend="19" Manufucturer="Ford" />
+  <ex:Car Name="FLEX AWD" combiend="18" Manufucturer="Ford" />
+  <ex:Car Name="FLEX AWD" combiend="17" Manufucturer="Ford" />
+  <ex:Car Name="ACADIA AWD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON 4WD" combiend="17" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON XL 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON XL 4WD" combiend="18" Manufucturer="GMC" />
+  <ex:Car Name="K1500 YUKON XL 4WD" combiend="16" Manufucturer="GMC" />
+  <ex:Car Name="QX60 Hybrid AWD" combiend="26" Manufucturer="INFINITI" />
+  <ex:Car Name="QX80 4WD" combiend="15" Manufucturer="INFINITI" />
+  <ex:Car Name="Grand Cherokee 4X4" combiend="24" Manufucturer="Jeep" />
+  <ex:Car Name="Grand Cherokee 4X4" combiend="21" Manufucturer="Jeep" />
+  <ex:Car Name="Grand Cherokee 4X4" combiend="17" Manufucturer="Jeep" />
+  <ex:Car Name="Grand Cherokee SRT8 4x4" combiend="15" Manufucturer="Jeep" />
+  <ex:Car Name="LR4" combiend="16" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover" combiend="19" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover" combiend="16" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover LWB" combiend="19" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover LWB" combiend="16" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover Sport" combiend="19" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover Sport" combiend="16" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover Sport TDV6" combiend="25" Manufucturer="Land Rover" />
+  <ex:Car Name="Range Rover TDV6" combiend="25" Manufucturer="Land Rover" />
+  <ex:Car Name="GX 460" combiend="17" Manufucturer="LEXUS" />
+  <ex:Car Name="LX 570" combiend="15" Manufucturer="LEXUS" />
+  <ex:Car Name="RX 450h AWD" combiend="30" Manufucturer="LEXUS" />
+  <ex:Car Name="MKT AWD" combiend="17" Manufucturer="Lincoln" />
+  <ex:Car Name="Navigator 4WD" combiend="17" Manufucturer="Lincoln" />
+  <ex:Car Name="Navigator L 4WD" combiend="16" Manufucturer="Lincoln" />
+  <ex:Car Name="AMG G 63" combiend="13" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG G65" combiend="12" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG GL 63" combiend="14" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG GLE 63" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG GLE 63 S" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="AMG GLE 63 S (coupe)" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="G 550" combiend="13" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GL 350 BLUETEC 4MATIC" combiend="22" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GL 450 4MATIC" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GL 550 4MATIC" combiend="15" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 300 d 4MATIC" combiend="24" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 350 4MATIC" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 350 4MATIC" combiend="19" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 350 d 4MATIC" combiend="26" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 400 4MATIC" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="GLE 450 AMG (coupe)" combiend="20" Manufucturer="Mercedes-Benz" />
+  <ex:Car Name="Cayenne" combiend="21" Manufucturer="Porsche" />
+  <ex:Car Name="Cayenne Diesel" combiend="23" Manufucturer="Porsche" />
+  <ex:Car Name="Cayenne GTS" combiend="19" Manufucturer="Porsche" />
+  <ex:Car Name="Cayenne S" combiend="20" Manufucturer="Porsche" />
+  <ex:Car Name="Cayenne Turbo" combiend="17" Manufucturer="Porsche" />
+  <ex:Car Name="Cayenne Turbo S" combiend="17" Manufucturer="Porsche" />
+  <ex:Car Name="4RUNNER 4WD" combiend="18" Manufucturer="TOYOTA" />
+  <ex:Car Name="4RUNNER 4WD" combiend="18" Manufucturer="TOYOTA" />
+  <ex:Car Name="HIGHLANDER AWD" combiend="20" Manufucturer="TOYOTA" />
+  <ex:Car Name="HIGHLANDER HYBRID AWD" combiend="28" Manufucturer="TOYOTA" />
+  <ex:Car Name="HIGHLANDER HYBRID AWD LE Plus" combiend="28" Manufucturer="TOYOTA" />
+  <ex:Car Name="LAND CRUISER WAGON 4WD" combiend="15" Manufucturer="TOYOTA" />
+  <ex:Car Name="SEQUOIA 4WD" combiend="14" Manufucturer="TOYOTA" />
+  <ex:Car Name="SEQUOIA 4WD FFV" combiend="14" Manufucturer="TOYOTA" />
+  <ex:Car Name="Touareg" combiend="24" Manufucturer="Volkswagen" />
+  <ex:Car Name="Touareg" combiend="19" Manufucturer="Volkswagen" />
+  <ex:Car Name="XC90 AWD" combiend="22" Manufucturer="Volvo" />
+  <ex:Car Name="XC90 AWD" combiend="23" Manufucturer="Volvo" />
+</Cars>

@@ -1,0 +1,6 @@
+E:\Projects\Learning\LinqCourse\Queries\bin\Debug\Queries.exe.config
+E:\Projects\Learning\LinqCourse\Queries\bin\Debug\Queries.exe
+E:\Projects\Learning\LinqCourse\Queries\bin\Debug\Queries.pdb
+E:\Projects\Learning\LinqCourse\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\LinqCourse\Queries\obj\Debug\Queries.exe
+E:\Projects\Learning\LinqCourse\Queries\obj\Debug\Queries.pdb

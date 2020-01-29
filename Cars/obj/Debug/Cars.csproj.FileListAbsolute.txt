@@ -1,0 +1,12 @@
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\fuel.csv
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\manufacturers.csv
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\Cars.exe.config
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\Cars.exe
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\Cars.pdb
+E:\Projects\Learning\LinqCourse\Cars\obj\Debug\Cars.exe
+E:\Projects\Learning\LinqCourse\Cars\obj\Debug\Cars.pdb
+E:\Projects\Learning\LinqCourse\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\EntityFramework.dll
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\EntityFramework.xml
+E:\Projects\Learning\LinqCourse\Cars\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,6 @@
+E:\Projects\Learning\LinqCourse\Feature\bin\Debug\Feature.exe.config
+E:\Projects\Learning\LinqCourse\Feature\bin\Debug\Feature.exe
+E:\Projects\Learning\LinqCourse\Feature\bin\Debug\Feature.pdb
+E:\Projects\Learning\LinqCourse\Feature\obj\Debug\Feature.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\LinqCourse\Feature\obj\Debug\Feature.exe
+E:\Projects\Learning\LinqCourse\Feature\obj\Debug\Feature.pdb

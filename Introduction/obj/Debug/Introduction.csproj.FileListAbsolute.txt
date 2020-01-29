@@ -1,0 +1,5 @@
+E:\Projects\Learning\LinqCourse\Introduction\bin\Debug\Introduction.exe.config
+E:\Projects\Learning\LinqCourse\Introduction\bin\Debug\Introduction.exe
+E:\Projects\Learning\LinqCourse\Introduction\bin\Debug\Introduction.pdb
+E:\Projects\Learning\LinqCourse\Introduction\obj\Debug\Introduction.exe
+E:\Projects\Learning\LinqCourse\Introduction\obj\Debug\Introduction.pdb
